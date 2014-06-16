@@ -21,17 +21,8 @@
     <ClInclude Include="OrderedArrayTemplate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Main.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UnorderedArrayTemplate.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="OrderedArrayTemplate.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
